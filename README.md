@@ -9,7 +9,7 @@ A continuación se presenta la introducción a la creación de una aplicación d
 Las listas de tareas pendientes no tienen porqué ser complicadas.  Todo el tiempo aparece una nueva aplicación de lista de tareas pendientes porque llevar un registro de los quehaceres es algo sumamente personal y necesario, pero el hecho de que existan tantas aplicaciones con grandes variantes de uso, dificulta el encontrar la más adecuada, lo cual nos otorga la oportunidad perfecta para practicar.  Es por ello, que esta app es utilizada como un método de prática; si algunas aplicaciones son muy difíciles de usar, esta app permitirá desarrollar las habilidades de Vue.js y Vuetify mediante la creación de una *To-do List*  rápida y sencilla para una organzación eficaz.
 
 ## Empleo de ''My To-do''
-Se comprenden dos pantallas las cuales pueden accesarse mediante un área de navegación, estas son la pantalla de información acerca de la aplicación y la pantalla que permite el uso inmediato de la misma.
+Se comprenden dos pantallas a las cuales se puede accesar mediante un área de navegación, estas son la pantalla de información acerca de la aplicación y la pantalla que permite el uso inmediato de la misma.
 
  - **Pantalla ''About Us'':**
 Brinda datos del uso de *My To-do*. 
@@ -22,7 +22,7 @@ Brinda datos del uso de *My To-do*.
 	 1. En la parte superior permite escribir las tareas que se planean agregar.
 	 2. En tal caso de querer borrar lo escrito en vez de presionar varias veces la tecla *backspace* se puede también hacer click en una *x*.
 	 3. Para agregar el objetivo se puede tanto presionar la tecla *enter* como el símbolo *+* al lado del texto introducido.
-	 4.  Las metas establecidas presentan cuadros que permiten marcar aquellas que hayan sido realizadas.
+	 4. Las metas establecidas presentan cuadros que permiten marcar aquellas que hayan sido realizadas.
 	 5. Los objetivos ya establecidos comprenden un ícono de papelera que elimina las tareas individualmente.
 	 6. Se comprende una pequeña sección que indica cuantas asignaciones faltan por realizar y un botón que permite borrar todos los quehaceres escritos.
 
